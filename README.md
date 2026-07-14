@@ -133,10 +133,20 @@ Business Insights
 AnalystLab-Africa-Internship/
 │
 ├── Week-1-2/
-│   ├── Netflix/
-│   ├── Online-Retail/
-│   ├── Notebook.ipynb
-│   ├── README.md
+│   │
+│   ├── Netflix-EDA/
+│   │   ├── Netflix_EDA.ipynb
+│   │   ├── netflix_analysis.py
+│   │   ├── cleaned_netflix.csv
+│   │   ├── README.md
+│   │   └── images/
+│   │
+│   └── Online-Retail-EDA/
+│       ├── Online_Retail_EDA.ipynb
+│       ├── online_retail_analysis.py
+│       ├── cleaned_online_retail.csv
+│       ├── README.md
+│       └── images/
 │
 ├── Week-3/
 │
